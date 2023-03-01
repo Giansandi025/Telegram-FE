@@ -73,12 +73,6 @@ export default function Login() {
 					{loading ? (<><FontAwesomeIcon icon={faSpinner} spin />&nbsp;Loading</>) : 'Login'}
 				</button>
 			</form>
-			<div style={{ display: 'flex', width: '80%', color: '#848484', marginBottom: '30px'}}>
-				<hr style={{width: '30%'}}/>
-				<p style={{margin: 'auto'}}>Login With</p>
-				<hr style={{width: '30%'}}/>
-			</div>
-			<GoogleButton />
 			<div style={{ display: 'flex' }}>
 				<p>Don’t have an account?&nbsp;</p>
 				<Link to='/register' style={{textDecoration: 'none'}}><p style={{color: '#7E98DF'}}>Sign Up</p></Link>
