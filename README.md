@@ -66,7 +66,7 @@ git clone https://github.com/Giansandi025/Telegram-FE
 - Go To Folder Repo
 
 ```
-cd Telegram-FrondEnd
+cd Telegram-FE
 ```
 
 - Install Module
