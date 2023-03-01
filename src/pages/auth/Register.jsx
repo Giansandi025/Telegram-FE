@@ -80,12 +80,6 @@ export default function Login() {
 					{loading ? (<><FontAwesomeIcon icon={faSpinner} spin />&nbsp;Loading</>) : 'Register'}
 				</button>
 			</form>
-			<div style={{ display: 'flex', width: '80%', color: '#848484', marginBottom: '30px'}}>
-				<hr style={{width: '30%'}}/>
-				<p style={{margin: 'auto'}}>Register With</p>
-				<hr style={{width: '30%'}}/>
-			</div>
-			<GoogleButton />
 		</AuthLayout>
 	);
 }
