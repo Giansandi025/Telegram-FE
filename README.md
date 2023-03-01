@@ -83,7 +83,7 @@ npm install
 
 | Login Page                                                                                              |                                                                                                   
 | ------------------------------------------------------------------------------------------------------- | 
-| ![Verification](https://github.com/https://github.com/Giansandi025/Telegram-FE/blob/main/ss/login1.png "Login Page") |
+| ![Verification](https://github.com/https://github.com/Giansandi025/Telegram-FE/blob/main/ss/login.png "Login Page") |
 
 
 
