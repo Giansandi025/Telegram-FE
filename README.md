@@ -79,11 +79,11 @@ npm install
 
 | Chat Page                                                                                                    | Register Page                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Login](https://github.com/Giansandi025/Telegram-FE/blob/main/ss/chat2.png "Login Page") | ![Register](https://github.com/Giansandi025/Telegram-FE/blob/main/ss/register1.png "Register Page") |
+| ![Login](https://github.com/Giansandi025/Telegram-FE/blob/main/ss/chat2.png "Chat Page") | ![Register](https://github.com/Giansandi025/Telegram-FE/blob/main/ss/register1.png "Register Page") |
 
 | Login Page                                                                                              |                                                                                                   
 | ------------------------------------------------------------------------------------------------------- | 
-| ![Verification](https://github.com/https://github.com/Giansandi025/Telegram-FE/blob/main/ss/login1.png "Chat Page") |
+| ![Verification](https://github.com/https://github.com/Giansandi025/Telegram-FE/blob/main/ss/login1.png "Login Page") |
 
 
 ## Related Project
