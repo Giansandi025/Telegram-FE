@@ -89,7 +89,7 @@ npm install
 ## Related Project
 
 - [`BACKEND CHAT APP`](https://github.com/Giansandi025/Telegram-BE)
-- [`FRONTEND CHAT APP`](https://github.com/Giansandi025/Telegram-FrondEnd)
+- [`FRONTEND CHAT APP`](https://github.com/Giansandi025/Telegram-FE)
 
 
 ## License
