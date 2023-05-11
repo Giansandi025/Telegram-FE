@@ -91,6 +91,7 @@ npm install
 
 - [`BACKEND CHAT APP`](https://github.com/Giansandi025/Telegram-BE)
 - [`FRONTEND CHAT APP`](https://github.com/Giansandi025/Telegram-FE)
+- [`DEMO`](https://telegram-app-5138ac.netlify.app/)
 
 
 ## License
